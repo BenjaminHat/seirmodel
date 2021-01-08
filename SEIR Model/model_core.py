@@ -4,6 +4,7 @@ from matplotlib.figure import Figure
 from scipy.integrate import odeint
 
 # S => stock of susceptible population
+# E => stock of exposed population
 # I => stock of infected population
 # R => stock of removed population
 # N ==> total pop ===> N = S+I+R
